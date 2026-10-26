@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" width="128" height="128" alt="Unburn Icon" />
+  <img src="media/unburn-icon.png" width="128" height="128" alt="Unburn Icon" />
 </p>
 
 <h1 align="center">Unburn</h1>
@@ -10,10 +10,33 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/thatsnowsky/unburn/releases/latest"><img src="https://img.shields.io/github/v/release/thatsnowsky/unburn?label=Download%20macOS&color=blue" alt="Download macOS" /></a>
-  <img src="https://img.shields.io/badge/Platform-macOS%2012%2B%20(Apple%20Silicon)-black" alt="macOS 12+ (Apple Silicon)" />
-  <a href="https://thatsnowsky.com/unburn"><img src="https://img.shields.io/badge/Website-thatsnowsky.com%2Funburn-pink" alt="Website" /></a>
+  <a href="https://thatsnowsky.github.io/unburn/"><img src="https://img.shields.io/badge/🌐_Webpage-thatsnowsky.github.io%2Funburn-purple?style=for-the-badge" alt="Live Webpage" /></a>
+  <a href="https://github.com/thatsnowsky/unburn/releases/latest"><img src="https://img.shields.io/github/v/release/thatsnowsky/unburn?label=Download%20macOS&color=blue&style=for-the-badge" alt="Download macOS" /></a>
+  <a href="https://whop.com/checkout/plan_TMlX1Vo7J0VCV"><img src="https://img.shields.io/badge/Buy%20Unburn-$39.90-emerald?style=for-the-badge" alt="Buy Unburn" /></a>
 </p>
+
+---
+
+## 🌐 Live Product Page
+
+Visit the interactive webpage with live before/after sliders, video demos, and FAQ:  
+👉 **[https://thatsnowsky.github.io/unburn/](https://thatsnowsky.github.io/unburn/)**
+
+---
+
+## Before & After
+
+| Burned (Laser Sensor Damage) | Healed (Unburn One-Click) |
+| :---: | :---: |
+| <img src="media/unburn-before.jpg" width="450" alt="Burned sky" /> | <img src="media/unburn-after.jpg" width="450" alt="Healed sky" /> |
+| <img src="media/ex1-before.jpg" width="450" alt="Burned sunset" /> | <img src="media/ex1-after.jpg" width="450" alt="Healed sunset" /> |
+
+---
+
+## Video Walkthroughs
+
+- **[Batch Healing Demo Video (MP4)](media/unburn-demo.mp4)** — 20-second screencast showing batch detection and one-click heal.
+- **[Sensor Calibration Wizard Video (MP4)](media/unburn-calibration.mp4)** — Isolating sensor-level defects from scene texture for any camera body.
 
 ---
 
@@ -38,6 +61,19 @@ When a camera sensor gets burnt by lasers at concerts, clubs, or events, or deve
 - **Offline & Private:** Fully offline application. No telemetry, no cloud dependencies.
 
 > **Note:** Unburn fixes fixed dots and dot clusters that sit in the same place on every frame. It does not fix line damage (a continuous thin column/stripe across the sensor) or sensor dust that moves between shots.
+
+---
+
+## App Interface
+
+<p align="center">
+  <img src="media/shot-1_overview.jpg" width="48%" alt="Overview" />
+  <img src="media/shot-2_spot_closeup.jpg" width="48%" alt="Inspector Closeup" />
+</p>
+<p align="center">
+  <img src="media/shot-3_heal_controls.jpg" width="48%" alt="Heal Controls" />
+  <img src="media/shot-4_export.jpg" width="48%" alt="Export Settings" />
+</p>
 
 ---
 
@@ -88,5 +124,5 @@ Supported RAW formats:
 
 Unburn includes a free evaluation mode that allows testing all healing and calibration features (with a subtle watermark on exports). 
 
-Full commercial licenses (lifetime one-time or monthly subscription) can be purchased at:
-**[https://thatsnowsky.com/unburn](https://thatsnowsky.com/unburn)**
+Full commercial licenses (lifetime one-time $39.90 or $9.90/month subscription) can be purchased at:  
+👉 **[https://whop.com/checkout/plan_TMlX1Vo7J0VCV](https://whop.com/checkout/plan_TMlX1Vo7J0VCV)**
